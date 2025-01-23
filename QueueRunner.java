@@ -25,6 +25,7 @@ public class QueueRunner{
         System.out.println(que);
         que.add(32);
         System.out.println(que);
+        System.out.println(que.size());
 
         
         
